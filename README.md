@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rahulc90
 - 👀 I’m interested in interesting C/C++ Projects
-- 🌱 I’m currently learning IoT development
-- 💞️ I’m looking to collaborate on opensource IOT projects
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on opensource AI projects
 - 📫 How to reach me - write directly to Rahul.Chatterjee@rceenetworks.com
 
 <!---
